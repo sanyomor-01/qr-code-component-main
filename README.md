@@ -20,13 +20,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 I've successfully designed the front-end of a QR code card using HTML and CSS. The card features a visually appealing layout achieved through effective styling and positioning. The use of CSS has allowed for precise control over elements, ensuring a polished and professional appearance. 
 ### Screenshot
 
-![](./images/Screenshot%20(24).png)
+![](./images/Screenshot%20(25).png)
 ![](./images/Screenshot%20(26).png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://qr-code-component-main-tau-red.vercel.app/)
+- Solution URL: [My solution URL here](https://github.com/sanyomor-01/qr-code-component-main/settings)
+- Live Site URL: [Live site URL here](https://qr-code-component-main-tau-red.vercel.app/)
 
 ## My process
 
