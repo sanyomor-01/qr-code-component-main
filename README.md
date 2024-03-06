@@ -21,7 +21,7 @@ I've successfully designed the front-end of a QR code card using HTML and CSS. T
 ### Screenshot
 
 ![](./images/desktop.png)
-![](./images/Screenshot%20(25).png)
+![](./images/mobile.png)
 
 
 ### Links

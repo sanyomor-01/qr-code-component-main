@@ -68,12 +68,14 @@ body{
         display: grid;
         place-items: center;
         background:hsl(212, 45%, 89%);
+
     }
     .card{
         width: 320px;
         margin: auto;
         display: flex;
         flex-direction: column;
+        margin-top:50px;
 
     }
 }
