@@ -20,8 +20,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 I've successfully designed the front-end of a QR code card using HTML and CSS. The card features a visually appealing layout achieved through effective styling and positioning. The use of CSS has allowed for precise control over elements, ensuring a polished and professional appearance. 
 ### Screenshot
 
-![](./images/Screenshot%20(25).png)
 ![](./images/desktop.png)
+![](./images/Screenshot%20(25).png)
+
 
 ### Links
 
